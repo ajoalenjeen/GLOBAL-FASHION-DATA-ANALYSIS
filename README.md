@@ -4,6 +4,9 @@
 
 This project analyzes Global Fashion retail transactions using SQL Server. The goal is to uncover insights about sales performance, customer behavior, profitability, and retention that could guide business strategy.
 
+## Dataset
+https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv
+
 ## Business Questions
 
 Sales Performance: 
@@ -150,6 +153,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
