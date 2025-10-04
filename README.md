@@ -7,16 +7,16 @@ This project analyzes Global Fashion retail transactions using SQL Server. The g
 ## Business Questions
 
 Sales Performance: 
-Monthly Sales Performance → What are the revenue trends over time?
-Top Stores & Products → Which cities and products generate the most revenue?
+* Monthly Sales Performance → What are the revenue trends over time?
+* Top Stores & Products → Which cities and products generate the most revenue?
 
 Customer Insights:
-Customer Segmentation → Who are our most valuable customers?
-Repeat vs One-Time Buyers → What % of customers return?
+* Customer Segmentation → Who are our most valuable customers?
+* Repeat vs One-Time Buyers → What % of customers return?
 
 Returns & Retention:
-Returns → What % of transactions are returns?
-Churn Analysis → Which customers have stopped purchasing?
+* Returns → What % of transactions are returns?
+* Churn Analysis → Which customers have stopped purchasing?
 
 ## Data Cleaning 
 
@@ -150,6 +150,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
