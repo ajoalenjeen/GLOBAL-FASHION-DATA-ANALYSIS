@@ -56,7 +56,7 @@ Revenue has seasonal peaks in September–December, with December as the stronge
 #### 2.Top 20 city in the USA that generates the most revenue
 <img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/0573230db0fea1ff11be582890891deba851cba6/Images/Screenshot%202025-12-30%20193110.png" 
      alt="Top 20 Cities" 
-     width="600">
+     width="800">
 
 
 * New York ($15.3M) and Los Angeles ($14.6M) completely dominate revenue — way ahead of other cities and Chicago is a distant 3rd at ~$4M.
@@ -159,6 +159,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
