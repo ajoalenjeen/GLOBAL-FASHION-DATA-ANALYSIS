@@ -49,7 +49,7 @@ https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/Sale
 ### Sales Performance:
 #### Query: [sales_performance](/sales_performance.sql)
 #### 1.Monthly Trends
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/f7717b22a24f9bfc8d548602e0ec45729d0a0ac7/Images/Screenshot%202025-12-30%20193034.png" 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/2b8c5cccc7a02cbe2aab2966d19bc53dbb35b28a/Images/Screenshot%202025-12-30%20202855.png" 
      alt="Top 20 Cities" 
      width="800">
 
@@ -163,6 +163,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
