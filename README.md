@@ -74,7 +74,7 @@ Revenue has seasonal peaks in September–December, with December as the stronge
 #### 1.Customer Segmentation
 Assigned customers to High, Mid, and Low-value segments
 
-![customer_segmentation](/Images/customer_segmentation.png)
+![customer_segmentation](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/7d284855411eb97f77ff59e760d079895172622f/Images/Screenshot%202025-12-30%20182058.png)
 
 Revenue Share by Segment (Pie Chart)
 
@@ -156,6 +156,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
