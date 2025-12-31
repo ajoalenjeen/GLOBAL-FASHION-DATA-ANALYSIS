@@ -70,11 +70,7 @@ Revenue has seasonal peaks in September–December, with December as the stronge
      alt="Top 20 Cities" 
      width="800">
 
-* Coats and Blazers ($6.4M) and Pants and Jeans ($5.9M) are the top sellers.
-
-* Suits and Blazers ($5M) and Sportswear ($4.2M) also generate strong revenue.
-
-* Lower down the list, categories like Shirts & Blouses (~$1.7M) still make solid contributions.
+* Coats and Blazers ($51.99M) and Pants and Jeans ($48.51M) are the top sellers.
 
 ### Customer Insights:
 #### Query: [customer_insights](/customer_insights.sql)
@@ -163,6 +159,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
