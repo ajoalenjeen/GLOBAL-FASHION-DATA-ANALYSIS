@@ -54,7 +54,7 @@ https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/Sale
 Revenue has seasonal peaks in September–December, with December as the strongest month both in 2023 and 2024.
 
 #### 2.Top 20 city in the USA that generates the most revenue
-![top 20 cities](/Images/Top_20_cities.png)
+![top 20 cities](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/0573230db0fea1ff11be582890891deba851cba6/Images/Screenshot%202025-12-30%20193110.png)
 
 * New York ($15.3M) and Los Angeles ($14.6M) completely dominate revenue — way ahead of other cities and Chicago is a distant 3rd at ~$4M.
 
@@ -156,6 +156,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
