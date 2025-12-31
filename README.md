@@ -49,7 +49,7 @@ https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/Sale
 ### Sales Performance:
 #### Query: [sales_performance](/sales_performance.sql)
 #### 1.Monthly Trends
-![monthly trends](/Images/Monthly_trends.png)
+![monthly trends](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/f7717b22a24f9bfc8d548602e0ec45729d0a0ac7/Images/Screenshot%202025-12-30%20193034.png)
 
 Revenue has seasonal peaks in September–December, with December as the strongest month both in 2023 and 2024.
 
@@ -156,6 +156,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
