@@ -55,8 +55,8 @@ https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/Sale
 
 Revenue has seasonal peaks in September–December, with December as the strongest month in 2024.
 
-#### 2.Top 20 city in the USA that generates the most revenue
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/0573230db0fea1ff11be582890891deba851cba6/Images/Screenshot%202025-12-30%20193110.png" 
+#### 2.Top 5 city in the USA that generates the most revenue
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/f6b4a6f243a4e4866b237806a7bc47c28b9039cd/Images/Screenshot%202025-12-30%20235322.png" 
      alt="Top 20 Cities" 
      width="800">
 
@@ -157,6 +157,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
