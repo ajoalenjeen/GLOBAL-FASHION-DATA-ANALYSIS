@@ -61,7 +61,7 @@ Revenue has seasonal peaks in September–December, with December as the stronge
 * The rest (Houston, Phoenix, Newark, etc.) are under $1M each.
 
 #### 3.Top 10 best-selling products by revenue
-![top 10 categories](/Images/Top_10_categories.png)
+![top 10 categories](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/58502ccb7d11af0c825a011ea9d9c8f153fd9ad0/Images/Screenshot%202025-12-30%20193131.png)
 
 * Coats and Blazers ($6.4M) and Pants and Jeans ($5.9M) are the top sellers.
 
@@ -156,6 +156,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
