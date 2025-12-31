@@ -61,9 +61,7 @@ Revenue has seasonal peaks in September–December, with December as the stronge
      width="800">
 
 
-* New York ($15.3M) and Los Angeles ($14.6M) completely dominate revenue — way ahead of other cities and Chicago is a distant 3rd at ~$4M.
-
-* The rest (Houston, Phoenix, Newark, etc.) are under $1M each.
+* New York ($9.42M) and Los Angeles ($9.08M) completely dominate revenue 
 
 #### 3.Top 10 best-selling products by revenue
 <img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/58502ccb7d11af0c825a011ea9d9c8f153fd9ad0/Images/Screenshot%202025-12-30%20193131.png" 
@@ -81,11 +79,11 @@ Assigned customers to High, Mid, and Low-value segments
 
 Revenue Share by Segment (Pie Chart)
 
-* High-Value customers (just ~53k people) generate 61% of all revenue.
+* High-Value customers (just ~298k people) generate 80.85% of all revenue.
 
-* Mid-Value customers (106k people) contribute 35% of revenue.
+* Mid-Value customers (521k people) contribute 17.58% of revenue.
 
-* Low-Value customers (53k people) contribute only 4% of revenue.
+* Low-Value customers (183k people) contribute only 1.57% of revenue.
 
 Average Revenue per Customer (Bar Chart)
 
@@ -159,6 +157,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
