@@ -98,7 +98,7 @@ Average Revenue per Customer (Bar Chart)
      alt="Top 20 Cities" 
      width="400">
 
-* Out of all customers, nearly 75% are repeat buyers, while 25% purchase only once.
+* Out of all customers, nearly 84.14% are repeat buyers, while 15.86% purchase only once.
 
 * This suggests strong customer retention and loyalty, which is a positive signal for long-term growth.
 
@@ -109,7 +109,7 @@ Average Revenue per Customer (Bar Chart)
      alt="Top 20 Cities" 
      width="400">
      
-* Out of ~1.05M total transactions, only 5.3% are returns.
+* Out of ~2.12M total transactions in 2024, only 4.8% are returns.
 
 * This suggests that the majority of customers are satisfied with their purchases, and return rates are within a healthy range for fashion retail.
 
@@ -118,9 +118,7 @@ Average Revenue per Customer (Bar Chart)
      alt="Top 20 Cities" 
      width="400">
 
-* 2023 Cohort: 47% Active vs 53% Churned.
-
-* 2024 Cohort: 32% Active vs 68% Churned.
+* 2024 Cohort: 32.17% Churn vs 67% Active.
 
 
 ## Recommendation:
@@ -163,6 +161,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
