@@ -103,7 +103,7 @@ Average Revenue per Customer (Bar Chart)
 ### Returns & Retention:
 #### Query: [return_and_retention](/return_and_retention.sql)
 #### 1.Return vs Sales
-![return](/Images/Return.png)
+![return](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/133583e0dc74574e4616b8e0ec3ebbd71691ac1e/Images/Screenshot%202026-01-02%20161354.png)
 
 * Out of ~1.05M total transactions, only 5.3% are returns.
 
@@ -157,6 +157,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
