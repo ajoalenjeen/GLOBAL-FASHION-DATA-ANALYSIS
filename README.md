@@ -94,7 +94,9 @@ Average Revenue per Customer (Bar Chart)
 * Low-Value: just $33 per customer.
 
 #### 2.Percentage of repeat vs one-time buyers
-![%](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/edd46ecc067b5d8ffd3f287c900bce24de6500ff/Images/Screenshot%202026-01-02%20150418.png)
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/edd46ecc067b5d8ffd3f287c900bce24de6500ff/Images/Screenshot%202026-01-02%20150418.png" 
+     alt="Top 20 Cities" 
+     width="800">
 
 * Out of all customers, nearly 75% are repeat buyers, while 25% purchase only once.
 
@@ -103,14 +105,18 @@ Average Revenue per Customer (Bar Chart)
 ### Returns & Retention:
 #### Query: [return_and_retention](/return_and_retention.sql)
 #### 1.Return vs Sales
-![return](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/133583e0dc74574e4616b8e0ec3ebbd71691ac1e/Images/Screenshot%202026-01-02%20161354.png)
-
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/133583e0dc74574e4616b8e0ec3ebbd71691ac1e/Images/Screenshot%202026-01-02%20161354.png" 
+     alt="Top 20 Cities" 
+     width="800">
+     
 * Out of ~1.05M total transactions, only 5.3% are returns.
 
 * This suggests that the majority of customers are satisfied with their purchases, and return rates are within a healthy range for fashion retail.
 
 #### 2.Churn Analysis:
-![churn](/Images/churn_analysis.png)
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/e7381ed2a94eecba5735ecb40e2c43bf466b4858/Images/Screenshot%202026-01-02%20162018.png" 
+     alt="Top 20 Cities" 
+     width="800">
 
 * 2023 Cohort: 47% Active vs 53% Churned.
 
@@ -157,6 +163,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
