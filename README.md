@@ -94,7 +94,7 @@ Average Revenue per Customer (Bar Chart)
 * Low-Value: just $33 per customer.
 
 #### 2.Percentage of repeat vs one-time buyers
-![%](/Images/Repeat_customers.png)
+![%](https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/edd46ecc067b5d8ffd3f287c900bce24de6500ff/Images/Screenshot%202026-01-02%20150418.png)
 
 * Out of all customers, nearly 75% are repeat buyers, while 25% purchase only once.
 
@@ -157,6 +157,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
