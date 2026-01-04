@@ -155,12 +155,13 @@ Recommendation:
 
 * Feature these categories prominently in seasonal lookbooks and email marketing.
 
-5.Insight: 25% of customers buy only once.
+5.Insight: 16% of customers buy only once.
 Recommendation:
 
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
