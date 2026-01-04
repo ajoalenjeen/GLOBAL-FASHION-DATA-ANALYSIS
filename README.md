@@ -130,7 +130,7 @@ Recommendation:
 
 * Offer targeted rewards to retain these top spenders and encourage repeat purchases.
 
-2.Insight: Churn increased from 53% (2023) to 68% (2024) cohorts.
+2.Insight: Churn is 32% in 2024 cohorts.
 Recommendation:
 
 * Implement a “welcome-back” campaign within 3–6 months of inactivity.
@@ -161,6 +161,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
