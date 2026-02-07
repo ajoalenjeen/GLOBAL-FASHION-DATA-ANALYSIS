@@ -2,7 +2,23 @@
 
 ## Project Overview
 
-This project analyzes Global Fashion retail transactions for the year 2024 using SQL Server. The goal is to uncover insights about sales performance, customer behavior, profitability, and retention that could guide business strategy.
+Global Fashion represents a large-scale fashion retail operation spanning multiple regions and product categories. The dataset captures millions of transactional records across apparel segments such as outerwear, formalwear, sportswear, and casual clothing.
+
+Despite strong overall sales performance, leadership seeks deeper insights into revenue drivers, customer behavior, retention, and returns to support data-driven decision-making in marketing, inventory planning, and customer engagement.
+
+This project analyzes 2024 Global Fashion retail transaction data using SQL Server, Python, and Tableau to uncover actionable insights and strategic recommendations.
+
+Insights and recommendations are provided across the following business dimensions:
+
+* Sales Performance Analysis - Monthly revenue trends and seasonality patterns
+
+* Top Cities & Product Performance - Identification of high-revenue cities and best-selling product categories
+
+* Customer Insights & Segmentation - Revenue contribution by customer value tiers
+
+* Retention & Repeat Behavior - Repeat vs one-time buyers and churn analysis
+
+* Returns & Transaction Quality - Return rate evaluation to assess customer satisfaction
 
 ## Dataset
 https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv
@@ -161,6 +177,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
