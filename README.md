@@ -76,6 +76,18 @@ Revenue contribution is highly skewed:
 
 * Customer growth accelerates during year-end months, mirroring revenue trends and reinforcing the importance of seasonal acquisition and retention strategies.
 
+# Recommendation:
+
+1️⃣ Strengthen high-value customer retention through a VIP loyalty program with tier-based rewards, exclusive access, and early sales.
+
+2️⃣ Reduce early-stage churn using 3–6 month re-engagement campaigns, personalized recommendations, and automated seasonal reminders.
+
+3️⃣ Expand beyond core U.S. cities by increasing targeted marketing and partnerships in Chicago, Houston, and Phoenix.
+
+4️⃣ Optimize the product portfolio by prioritizing top-revenue categories (Coats & Blazers, Pants & Jeans, Suits) and bundling them with slower-moving items.
+
+5️⃣ Convert one-time buyers into repeat customers through second-purchase incentives, free shipping offers, and post-purchase follow-ups.
+
 # Business Questions
 
 Sales Performance: 
@@ -230,6 +242,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
