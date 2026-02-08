@@ -1,6 +1,6 @@
 # GLOBAL FASHION DATA
 
-## Project Overview
+# Project Overview
 
 Global Fashion represents a large-scale fashion retail operation spanning multiple regions and product categories. The dataset captures millions of transactional records across apparel segments such as outerwear, formalwear, sportswear, and casual clothing.
 
@@ -20,10 +20,43 @@ Insights and recommendations are provided across the following business dimensio
 
 * Returns & Transaction Quality - Return rate evaluation to assess customer satisfaction
 
-## Dataset
+# Dataset
 https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv
 
-## Business Questions
+# Executive Summary:
+## Overview of Findings:
+
+This analysis examines 2024 fashion retail performance across sales, products, and customer behavior. Overall results indicate strong revenue growth, high customer retention, and clear concentration of value across specific products, regions, and customer segments. Seasonal demand and loyal customers are the primary drivers of performance, while early-stage churn and geographic concentration present opportunities for improvement.
+
+Sales Performance Insights:
+
+* Net Revenue reached $382.9M in 2024, reflecting a 25.6% year-over-year increase, driven by higher order volumes and seasonal demand.
+
+* Total orders increased to 2.23M (+12.2%), while total quantity sold reached 3.47M units (+12.2%), indicating healthy demand growth rather than price inflation alone.
+
+* Revenue follows a strong seasonal pattern, peaking in September–December, with December as the highest-performing month, supported by holiday shopping and promotional activity.
+
+* Refund losses remain controlled at $22.7M (~6% of revenue), suggesting strong product-market fit and manageable return behavior.
+
+* Sales are geographically concentrated, with China and the United States contributing the largest share of revenue, while several European markets show moderate but consistent growth.
+
+Product Performance:
+
+* Revenue is highly concentrated among a small set of categories:
+
+  * Coats & Blazers ($52.0M)
+ 
+  * Pants & Jeans ($48.5M)
+
+  * Suits & Blazers ($40.0M)
+
+* These categories consistently outperform others and show year-over-year growth between 22%–28%, making them the company’s strongest commercial drivers.
+
+* Feminine and Masculine categories dominate overall revenue, while Children’s apparel contributes a smaller but fast-growing share.
+
+* Discounted products account for ~28% of items sold, indicating that promotions play a meaningful role in driving volume without materially eroding overall revenue performance.
+
+# Business Questions
 
 Sales Performance: 
 * Monthly Sales Performance → What are the revenue trends over time?
@@ -177,6 +210,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
