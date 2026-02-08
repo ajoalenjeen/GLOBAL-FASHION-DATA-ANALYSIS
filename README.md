@@ -21,7 +21,8 @@ Insights and recommendations are provided across the following business dimensio
 * Returns & Transaction Quality - Return rate evaluation to assess customer satisfaction
 
 # Dataset
-https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv
+
+[here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
 
 # Executive Summary:
 ## Overview of Findings:
@@ -242,6 +243,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
