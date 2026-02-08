@@ -104,7 +104,7 @@ Returns & Retention:
 * Churn Analysis → Which customers have stopped purchasing?
 
 ## Dashboard
-https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/SalesPerfomance
+[here](https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/SalesPerfomance)
 
 ## Data Cleaning 
 
@@ -243,6 +243,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
