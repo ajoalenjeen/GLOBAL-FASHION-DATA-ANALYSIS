@@ -20,6 +20,14 @@ Insights and recommendations are provided across the following business dimensio
 
 * Returns & Transaction Quality - Return rate evaluation to assess customer satisfaction
 
+
+An Interactive Tableau Dashboard can be seen [here](https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/SalesPerfomance)
+The SQL queries for Data Cleaning [here](/data_cleaning.sql)
+The SQL queries for Creating View [here](/create_view.sql)
+The SQL queries for Sales Performance [here](/sales_performance.sql)
+The SQL queries for Customer Insights [here](/customer_insights.sql)
+The SQL queries for Return and Retention [here](/return_and_retention.sql)
+
 # Dataset
 
 [here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
@@ -243,6 +251,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
