@@ -60,6 +60,10 @@ Product Performance:
 
 * Discounted products account for ~28% of items sold, indicating that promotions play a meaningful role in driving volume without materially eroding overall revenue performance.
 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/d49ec4deca067f2c8e1c01655ed2f8f1f6dc1b69/Images/Screenshot%202026-02-08%20120911.png" 
+     alt="Top 20 Cities" 
+     width="800">
+     
 Customer & Retention Insights:
 
 * The customer base reached ~995K customers, with ~871K remaining active, resulting in a churn rate of 32.17%.
@@ -226,6 +230,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
