@@ -72,7 +72,7 @@ Customer & Retention Insights:
 
 Revenue contribution is highly skewed:
 
-* High-value customers generate the majority of revenue, despite representing a smaller share of the total customer base.
+* High-value customers generate 80.85% of revenue, despite representing a smaller share of the total customer base.
 
 * Customer growth accelerates during year-end months, mirroring revenue trends and reinforcing the importance of seasonal acquisition and retention strategies.
 
@@ -242,6 +242,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
