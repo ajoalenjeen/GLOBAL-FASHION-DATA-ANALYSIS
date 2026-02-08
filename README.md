@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?se
 
 This analysis examines 2024 fashion retail performance across sales, products, and customer behavior. Overall results indicate strong revenue growth, high customer retention, and clear concentration of value across specific products, regions, and customer segments. Seasonal demand and loyal customers are the primary drivers of performance, while early-stage churn and geographic concentration present opportunities for improvement.
 
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/4b46901e072d3653bf8441677431493da583b664/Images/Screenshot%202026-02-08%20120854.png" 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/257e5dbaf92fceccbda86de579e7525732949015/Images/Screenshot%202026-02-08%20172255.png" 
      alt="Top 20 Cities" 
      width="800">
      
@@ -242,6 +242,7 @@ Recommendation:
 * Introduce “Buy Again” reminders and second-purchase discounts.
 
 * Offer free shipping or small rewards after 2nd purchase to increase retention.
+
 
 
 
