@@ -33,7 +33,7 @@ The SQL queries for Customer Insights [here](/customer_insights.sql)
 
 The SQL queries for Return and Retention [here](/return_and_retention.sql)
 
-Dataset Link[here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
+Dataset Link [here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
 
 # Executive Summary:
 ## Overview of Findings:
@@ -99,6 +99,7 @@ Revenue contribution is highly skewed:
 4️⃣ Optimize the product portfolio by prioritizing top-revenue categories (Coats & Blazers, Pants & Jeans, Suits) and bundling them with slower-moving items.
 
 5️⃣ Convert one-time buyers into repeat customers through second-purchase incentives, free shipping offers, and post-purchase follow-ups.
+
 
 
 
