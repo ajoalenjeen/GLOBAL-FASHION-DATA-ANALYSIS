@@ -42,7 +42,7 @@ This analysis examines 2024 fashion retail performance across sales, products, a
 
 <img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/257e5dbaf92fceccbda86de579e7525732949015/Images/Screenshot%202026-02-08%20172255.png" 
      alt="Top 20 Cities" 
-     width="800">
+     width="1000">
      
 Sales Performance Insights:
 
@@ -99,6 +99,7 @@ Revenue contribution is highly skewed:
 4️⃣ Optimize the product portfolio by prioritizing top-revenue categories (Coats & Blazers, Pants & Jeans, Suits) and bundling them with slower-moving items.
 
 5️⃣ Convert one-time buyers into repeat customers through second-purchase incentives, free shipping offers, and post-purchase follow-ups.
+
 
 
 
