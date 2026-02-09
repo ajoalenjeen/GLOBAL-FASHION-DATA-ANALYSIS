@@ -72,7 +72,7 @@ Product Performance:
 
 * Discounted products account for ~28% of items sold, indicating that promotions play a meaningful role in driving volume without materially eroding overall revenue performance.
 
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/d49ec4deca067f2c8e1c01655ed2f8f1f6dc1b69/Images/Screenshot%202026-02-08%20120911.png" 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/57c71952b79f7e3d8cd95f077b74e19821149bec/Images/Screenshot%202026-02-09%20142054.png" 
      alt="Top 20 Cities" 
      width="1000">
      
@@ -99,6 +99,7 @@ Revenue contribution is highly skewed:
 4️⃣ Optimize the product portfolio by prioritizing top-revenue categories (Coats & Blazers, Pants & Jeans, Suits) and bundling them with slower-moving items.
 
 5️⃣ Convert one-time buyers into repeat customers through second-purchase incentives, free shipping offers, and post-purchase follow-ups.
+
 
 
 
