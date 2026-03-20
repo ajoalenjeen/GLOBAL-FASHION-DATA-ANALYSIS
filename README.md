@@ -22,7 +22,7 @@ Insights and recommendations are provided across the following business dimensio
 
 * Returns & Transaction Quality - Return rate evaluation to assess customer satisfaction
 
-## SQL Work
+## Project Resources & Links
 
 An Interactive Tableau Dashboard can be seen [here](https://public.tableau.com/app/profile/ajo.jeen5964/viz/GlobalFashionRetail/SalesPerfomance)
 
@@ -38,13 +38,13 @@ The SQL queries for Return and Retention [here](/return_and_retention.sql)
 
 Dataset Link [here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
 
-# ER Diagram:
+## ER Diagram:
 <img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/af2320c1b0e3a724eade04ac24944d9563b2382e/Images/Screenshot%202026-03-20%20011111.png" 
      alt="Top 20 Cities" 
      width="1000">
 
-# Executive Summary:
-## Overview of Findings:
+## Executive Summary:
+### Overview of Findings:
 
 This analysis examines 2024 fashion retail performance across sales, products, and customer behavior. Overall results indicate strong revenue growth, high customer retention, and clear concentration of value across specific products, regions, and customer segments. Seasonal demand and loyal customers are the primary drivers of performance, while early-stage churn and geographic concentration present opportunities for improvement.
 
@@ -96,7 +96,7 @@ Revenue contribution is highly skewed:
 
 * Customer growth accelerates during year-end months, mirroring revenue trends and reinforcing the importance of seasonal acquisition and retention strategies.
 
-# Recommendation:
+## Recommendation:
 
 1️⃣ Strengthen high-value customer retention through a VIP loyalty program with tier-based rewards, exclusive access, and early sales.
 
