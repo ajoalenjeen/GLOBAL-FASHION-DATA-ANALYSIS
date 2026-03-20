@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-Global Fashion represents a large-scale fashion retail operation spanning multiple regions and product categories. The dataset captures millions of transactional records across apparel segments such as outerwear, formalwear, sportswear, and casual clothing.
+Global Fashion is a large-scale retail operation spanning multiple regions and product categories, with millions of transaction records across apparel segments.
 
-Despite strong overall sales performance, leadership seeks deeper insights into revenue drivers, customer behavior, retention, and returns to support data-driven decision-making in marketing, inventory planning, and customer engagement.
-
-This project analyzes 2024 Global Fashion retail transaction data using SQL Server, Python, and Tableau to uncover actionable insights and strategic recommendations.
+This project analyzes 2024 data using SQL Server, Python, and Tableau to uncover insights on revenue drivers, customer behavior, retention, and returns, supporting data-driven business decisions.
 
 ## Key Analysis Areas
 
