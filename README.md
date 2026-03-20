@@ -36,7 +36,7 @@ The SQL queries for Return and Retention [here](/return_and_retention.sql)
 Dataset Link [here](https://www.kaggle.com/datasets/ricgomes/global-fashion-retail-stores-dataset?select=products.csv)
 
 # ER Diagram:
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/1770c49e6fe4327fc35d83bb55db9506e87fee58/Images/Global%20Fashion%20(3).png" 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/af2320c1b0e3a724eade04ac24944d9563b2382e/Images/Screenshot%202026-03-20%20011111.png" 
      alt="Top 20 Cities" 
      width="1000">
 
