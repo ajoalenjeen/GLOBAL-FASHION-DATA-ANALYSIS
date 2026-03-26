@@ -78,7 +78,7 @@ Product Performance:
 
 * Discounted products account for ~28% of items sold, indicating that promotions play a meaningful role in driving volume without materially eroding overall revenue performance.
 
-<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/57c71952b79f7e3d8cd95f077b74e19821149bec/Images/Screenshot%202026-02-09%20142054.png" 
+<img src="https://github.com/ajoalenjeen/GLOBAL-FASHION-DATA-ANALYSIS/blob/e94f365b34b241f5f968e6bad832fecd7670197d/Image/Screenshot%202026-03-26%20023332.png" 
      alt="Top 20 Cities" 
      width="1000">
      
