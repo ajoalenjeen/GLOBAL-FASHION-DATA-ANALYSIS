@@ -86,7 +86,7 @@ Customer & Retention Insights:
 
 * The customer base reached ~995K customers, with ~871K remaining active, resulting in a churn rate of 32.17%.
 
-* Repeat customers account for 84.1% of total customers, highlighting strong loyalty and repeat purchasing behavior.
+* Repeat customers account for 57.14% of total customers, highlighting strong loyalty and repeat purchasing behavior.
 
 Revenue contribution is highly skewed:
 
